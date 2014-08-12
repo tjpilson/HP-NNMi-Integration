@@ -23,7 +23,7 @@ Edit to include your max record/node count
 my $maxObjects = "";
 ```
 
-**Running (snQuery.pl)**
+**Running (getNnmiNodes.pl)**
 
 The script is designed to be run manually and will prompt for a password.  The output can be modified to print
 in any necessary format.
